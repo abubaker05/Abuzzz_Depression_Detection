@@ -51,4 +51,4 @@ A machine learning-based web application that helps users self-assess their ment
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/abubaker05/Abuzzz_Depression_Detection.git
-cd your-repo-name
+cd Abuzzz_Depression_Detection.git
